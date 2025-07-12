@@ -1,0 +1,48 @@
+creature_equipment
+
+[OBJECT:CREATURE]
+
+[CREATURE:EQUIPMENT_WAGON]
+	[DESCRIPTION:A rolling platform for carrying passengers or cargo.]
+	[NAME:wagon:wagons:wagon]
+	[CASTE_NAME:wagon:wagons:wagon]
+	[CREATURE_TILE:'W'][COLOR:6:0:0]
+	[EQUIPMENT_WAGON][COMMON_DOMESTIC]
+	[NOT_BUTCHERABLE]
+	[BODY:WAGON]
+
+        ---- changes by Igfig ----
+
+	[CASTE:OAK]
+		[TISSUE:WOOD]
+			[TISSUE_NAME:wood:wooden]
+			[TISSUE_MATERIAL:PLANT_MAT:OAK:WOOD]
+			[ITEMCORPSE:WOOD:NO_SUBTYPE:PLANT_MAT:OAK:WOOD]
+	[CASTE:MAPLE]
+		[TISSUE:WOOD]
+			[TISSUE_NAME:wood:wooden]
+			[TISSUE_MATERIAL:PLANT_MAT:MAPLE:WOOD]
+			[ITEMCORPSE:WOOD:NO_SUBTYPE:PLANT_MAT:MAPLE:WOOD]
+	[CASTE:CHESTNUT]
+		[TISSUE:WOOD]
+			[TISSUE_NAME:wood:wooden]
+			[TISSUE_MATERIAL:PLANT_MAT:CHESTNUT:WOOD]
+			[ITEMCORPSE:WOOD:NO_SUBTYPE:PLANT_MAT:CHESTNUT:WOOD]
+
+	hickory and elm are also good wagon materials, but not in the game
+
+	[SELECT_CASTE:ALL]
+
+	---- end changes ----
+
+	[TISSUE_LAYER:BY_CATEGORY:ALL:WOOD]
+	
+	[BODY_SIZE:0:0:12000]
+	[ALL_ACTIVE]
+	[TRADE_CAPACITY:15000]
+	[MUNDANE]
+
+
+
+
+elm, hickory, poplar, walnut, sycamore
