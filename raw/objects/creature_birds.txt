@@ -803,7 +803,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[PREFSTRING:enormous size]
 	[PREFSTRING:coloration]
 	[PREFSTRING:waddling gait]
@@ -967,7 +967,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:giant tiercel peregrine:giant tiercel peregrines:giant tiercel peregrine]

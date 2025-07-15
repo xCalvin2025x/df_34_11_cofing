@@ -10,7 +10,7 @@ creature_subterranean
 	[CREATURE_TILE:'C'][COLOR:7:0:0]
 	[PETVALUE:750]
 	[PET_EXOTIC]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[AMPHIBIOUS]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:1:2]
@@ -101,7 +101,7 @@ creature_subterranean
 	[CREATURE_TILE:'T'][COLOR:2:0:0]
 	[PETVALUE:750]
 	[PET_EXOTIC]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[AMPHIBIOUS][UNDERSWIM]
 	[LARGE_PREDATOR]
 	[CARNIVORE]
@@ -174,7 +174,7 @@ creature_subterranean
 	[CREATURE_TILE:'O'][COLOR:7:0:1]
 	[PETVALUE:750]
 	[PET_EXOTIC]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[AMPHIBIOUS][UNDERSWIM]
 	[LARGE_PREDATOR]
 	[CARNIVORE]
@@ -248,7 +248,7 @@ creature_subterranean
 	[FLIER]
 	[PETVALUE:750]
 	[PET_EXOTIC]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[TRAINABLE_HUNTING]
 	[LARGE_ROAMING][DIFFICULTY:2]
 	[POPULATION_NUMBER:10:20]
@@ -1924,7 +1924,7 @@ creature_subterranean
 	[BENIGN][NATURAL]
 	[PETVALUE:700]
 	[PET_EXOTIC]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[TRAINABLE_HUNTING]
 	[FLIER]
 	[BONECARN]

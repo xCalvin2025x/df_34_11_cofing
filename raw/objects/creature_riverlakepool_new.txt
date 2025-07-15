@@ -227,7 +227,7 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:playfulness]
 
@@ -453,7 +453,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:vicious bites]
 	[PREFSTRING:long necks]
@@ -594,7 +594,7 @@ Beavers were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:dams]
 	[PREFSTRING:tree-felling habits]
@@ -693,7 +693,7 @@ Leeches were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:feeding habits]
 
@@ -810,7 +810,7 @@ Axolotls were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:5:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:gills]
 
@@ -948,7 +948,7 @@ Minks were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long bodies]
 
@@ -1078,6 +1078,6 @@ Pond turtles were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:shells]

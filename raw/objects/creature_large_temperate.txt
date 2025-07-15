@@ -823,7 +823,7 @@ creature_large_temperate
 	[MEANDERER]
 	[PETVALUE:650]
 	[PET_EXOTIC]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[LARGE_PREDATOR]
 	[GRASSTRAMPLE:20]
 	[PREFSTRING:strength]
@@ -1316,7 +1316,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[GRAZER:321]	changed by Igfig
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[SOUND:ALERT:200:1000:VOCALIZATION:bark:barks:a resounding bark]
 	[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep whistling]
 	[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grunt:grunts:a loud grunt]
@@ -1535,7 +1535,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 
 	Silophant - "one of these once bit my sister"
 	"Beware the room with a moose."
-	A møøse once bit my sister. / Mynd you, møøse bites kan be pretty nasti...
+	A mï¿½ï¿½se once bit my sister. / Mynd you, mï¿½ï¿½se bites kan be pretty nasti...
 
 [CREATURE:MOOSE]
 	[DESCRIPTION:A large mammal with great antlers and a large nose. It lives in temperate forests.]

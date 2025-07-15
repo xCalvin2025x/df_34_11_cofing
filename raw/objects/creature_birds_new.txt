@@ -148,7 +148,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 
@@ -301,7 +301,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 
@@ -590,7 +590,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:curiosity]
 	[PREFSTRING:intelligence]
@@ -740,7 +740,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:yellow eyes]
 	[PREFSTRING:coloration]
@@ -892,7 +892,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:lovely songs]
 	[PREFSTRING:dust baths]
@@ -1028,7 +1028,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long necks]
 	[PREFSTRING:long legs]
@@ -1166,7 +1166,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:haunting call]
 	[PREFSTRING:coloration]
@@ -1319,7 +1319,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 
@@ -1467,7 +1467,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[PREFSTRING:ability to speak]
@@ -1740,7 +1740,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:social nature]
@@ -1872,7 +1872,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:colorful beaks]
 
@@ -2005,7 +2005,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:beauty]
 
@@ -2150,7 +2150,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:bright coloration]
 	[PREFSTRING:playful personalities]
@@ -2299,7 +2299,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intricate songs]
 
@@ -2448,7 +2448,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:fishing ability]
 
@@ -2736,7 +2736,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:crests]
 
@@ -2880,7 +2880,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:loving nature]
 
@@ -3026,7 +3026,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:fondness of shiny objects]
@@ -3175,7 +3175,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[PREFSTRING:hunting prowess]
@@ -3305,7 +3305,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:large wings]
 
@@ -3458,7 +3458,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:piercing yellow eyes]
 	[PREFSTRING:ear tufts]
@@ -3610,13 +3610,13 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_PREDATOR]		added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:high soaring]
 
 Hornbills were sponsored by the generous contributions of the Bay 12 community.
 
-	Sponsored by Hornbill Interactive – Jim Regan / balrogkernel
+	Sponsored by Hornbill Interactive ï¿½ Jim Regan / balrogkernel
 
 [CREATURE:BIRD_HORNBILL]
 	[DESCRIPTION:A tiny bird with a large, brightly-colored bill.]
@@ -3752,7 +3752,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:great bills]
 
@@ -3895,7 +3895,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:loving nature]
 
@@ -4037,7 +4037,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	(MOUNT_EXOTIC) removed by Igfig
+	MOUNT_EXOTIC removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:somewhat great size]
 	[PREFSTRING:twittering groups]
