@@ -754,7 +754,7 @@ entity_default
 		[NAME:watcher:watchers]
 		[NUMBER:1]
 		[SITE]
-		[COLOR:3:7:1]
+		[COLOR:5:0:1]
 		[APPOINTED_BY:EXPEDITION_LEADER]
 		[APPOINTED_BY:MAYOR]
 		[PRECEDENCE:5]
