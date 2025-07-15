@@ -6,3 +6,6 @@
 
 2025/7/16  
 增加了[Modest Bodies v1.1](https://www.bay12forums.com/smf/index.php?topic=116332)
+
+2025/7.16  
+增加了[Better Megabeasts v1.0](https://www.bay12forums.com/smf/index.php?topic=105871.msg5040377#msg5040377)
