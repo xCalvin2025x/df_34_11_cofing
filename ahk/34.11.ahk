@@ -19,7 +19,6 @@ SleepTime := 25
 
 /*
 订单宏
-空格占用后订单处不能打空格
 ^1:: {
     Send "q"
     Sleep SleepTime
