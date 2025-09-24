@@ -25,18 +25,18 @@ This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or P
 This is the size and font for windowed mode.  Changing to the 800x600 font might make you happier.
 If set below 256x256 it specifies the grid size instead, with a minimum of 80x25.
 
-[WINDOWEDX:1920]
+[WINDOWEDX:1600]
 [WINDOWEDY:900]
-[FONT:bitlands_24x36.bmp]
+[FONT:yayo_kai.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:NO]
 
 Full screen info.  The 0s below mean that the game will choose a resolution for you, but you can set it yourself as well.
 
-[FULLSCREENX:1920]
+[FULLSCREENX:1600]
 [FULLSCREENY:900]
-[FULLFONT:bitlands_24x36.bmp]
+[FULLFONT:yayo_kai.png]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.
