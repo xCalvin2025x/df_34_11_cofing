@@ -737,7 +737,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'O']
 	[COLOR:7:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -1316,7 +1316,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'B']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -1605,7 +1605,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:longevity]
 	[PREFSTRING:flightlessness]
@@ -3455,7 +3455,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'O']
 	[COLOR:7:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -3607,7 +3607,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'E']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig

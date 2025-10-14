@@ -2750,7 +2750,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'N']
 	[COLOR:7:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:2000]
 	[GO_TO_END]

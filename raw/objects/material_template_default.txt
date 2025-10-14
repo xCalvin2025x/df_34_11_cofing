@@ -53,13 +53,13 @@ material_template_default
 	[BENDING_STRAIN_AT_YIELD:100]
 	A unitless measure for how sharp the edge is for combat purposes.
 	[MAX_EDGE:1000]
-	Used for pressing oil into jugs -- anything greater than zero needs to be glazed first.
+	Used for pressing oil into jugs - anything greater than zero needs to be glazed first.
 	[ABSORPTION:0]
 	Determines what sorts of objects can be built with the item.
 	[ITEMS_HARD]
 	[ITEMS_QUERN]
 	[REACTION_CLASS:CAN_GLAZE]
-	[BUTCHER_SPECIAL:BOULDER:NONE]	added by Igfig
+	[BUTCHER_SPECIAL:BOULDER:NONE] added by Igfig
 
 [MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:GRAY]
@@ -104,7 +104,7 @@ material_template_default
 	[MAX_EDGE:10000]
 	[ABSORPTION:0]
 	[IS_METAL]
-	[BUTCHER_SPECIAL:BAR:NONE]	added by Igfig
+	[BUTCHER_SPECIAL:BAR:NONE] added by Igfig
 
 [MATERIAL_TEMPLATE:WOOD_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:BROWN]
@@ -157,8 +157,8 @@ material_template_default
 	[ITEMS_SIEGE_ENGINE]
 	This general material classifier determines various in-game behaviors.  There are several others below.
 	[WOOD]
-	[BUTCHER_SPECIAL:WOOD:NONE]	added by Igfig
-	[BLOCK_NAME:plank:planks]	added by Igfig
+	[BUTCHER_SPECIAL:WOOD:NONE] added by Igfig
+	[BLOCK_NAME:plank:planks] added by Igfig
 
 [MATERIAL_TEMPLATE:SKIN_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:GRAY]
@@ -554,8 +554,8 @@ material_template_default
 	[MAX_EDGE:0]
 	[ABSORPTION:100]
 	[IMPLIES_ANIMAL_KILL]
-	[PEARL]		added by Igfig
-	[ITEMS_SOFT]	added by Igfig
+	[PEARL] added by Igfig
+	[ITEMS_SOFT] added by Igfig
 	
 Note: Why the PEARL token on feathers? Because there needs to be some way to decorate items with feathers, and material tags that might make more sense (such as leather or yarn) require incompatible item types.
 
@@ -604,9 +604,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MAX_EDGE:0]
 	[ABSORPTION:100]
 	[IMPLIES_ANIMAL_KILL]
-	[LEATHER]	added by Igfig
-	[ITEMS_LEATHER]	added by Igfig
-	[MATERIAL_REACTION_PRODUCT:TAN_MAT:LOCAL_CREATURE_MAT:SCALE]	added by Igfig
+	[LEATHER] added by Igfig
+	[ITEMS_LEATHER] added by Igfig
+	[MATERIAL_REACTION_PRODUCT:TAN_MAT:LOCAL_CREATURE_MAT:SCALE] added by Igfig
 
 [MATERIAL_TEMPLATE:NAIL_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:GRAY]
@@ -1990,9 +1990,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MAX_EDGE:1000]
 	[ABSORPTION:100]
 	[IMPLIES_ANIMAL_KILL]
-	[SHELL]		added by Igfig
-	[ITEMS_HARD]	added by Igfig
-	[ITEMS_SCALED]	added by Igfig
+	[SHELL] added by Igfig
+	[ITEMS_HARD] added by Igfig
+	[ITEMS_SCALED] added by Igfig
 
 [MATERIAL_TEMPLATE:MILK_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:WHITE]

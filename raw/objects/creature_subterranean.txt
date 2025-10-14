@@ -97,7 +97,7 @@ creature_subterranean
 	[DESCRIPTION:A giant amphibian predator found underground.]
 	[NAME:giant toad:giant toads:giant toad]
 	[CASTE_NAME:giant toad:giant toads:giant toad]
-	[CHILD:1][GENERAL_CHILD_NAME:giant toad tadpole:giant toad tadpoles]	added by Igfig; this is a kludge for until we can do tadpoles properly
+	[CHILD:1][GENERAL_CHILD_NAME:giant toad tadpole:giant toad tadpoles] added by Igfig; this is a kludge for until we can do tadpoles properly
 	[CREATURE_TILE:'T'][COLOR:2:0:0]
 	[PETVALUE:750]
 	[PET_EXOTIC]
@@ -170,7 +170,7 @@ creature_subterranean
 	[DESCRIPTION:A giant amphibian predator found underground near water.]
 	[NAME:giant olm:giant olms:giant olm]
 	[CASTE_NAME:giant olm:giant olms:giant olm]
-	[CHILD:1][GENERAL_CHILD_NAME:olm tadpole:olm tadpoles]	added by Igfig; this is a kludge for until we can do tadpoles properly
+	[CHILD:1][GENERAL_CHILD_NAME:olm tadpole:olm tadpoles] added by Igfig; this is a kludge for until we can do tadpoles properly
 	[CREATURE_TILE:'O'][COLOR:7:0:1]
 	[PETVALUE:750]
 	[PET_EXOTIC]
@@ -916,7 +916,7 @@ creature_subterranean
 	[DESCRIPTION:A large underground monster with eight legs and sharp, venomous fangs.]
 	[NAME:giant cave spider:giant cave spiders:giant cave spider]
 	[CASTE_NAME:giant cave spider:giant cave spiders:giant cave spider]
-	[CHILD:2][GENERAL_CHILD_NAME:spiderling:spiderlings]	added by Igfig
+	[CHILD:2][GENERAL_CHILD_NAME:spiderling:spiderlings] added by Igfig
 	[CREATURE_TILE:'S'][COLOR:7:0:0]
 	[PETVALUE:2500]
 	[PET_EXOTIC]

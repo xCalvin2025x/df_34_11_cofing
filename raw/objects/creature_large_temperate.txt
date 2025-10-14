@@ -1003,7 +1003,9 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 	I bring pandamonium!
 	Vorpal
 	Ian
-	"If you can't do something fast, do it half-fast." Gwen <3 Mike
+	"If you can't do something fast, do it half-fast."
+	Gwen
+	Mike
 	Masaka
 
 [CREATURE:PANDA]

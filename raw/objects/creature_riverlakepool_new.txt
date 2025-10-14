@@ -240,7 +240,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[DESCRIPTION:A medium-sized reptile with a thick shell, which it can retreat into when threatened.  This creature can administer a painful bite.]
 	[NAME:common snapping turtle:common snapping turtles:common snapping turtle]
 	[CASTE_NAME:common snapping turtle:common snapping turtles:common snapping turtle]
-	[CHILD:1][GENERAL_CHILD_NAME:snapping turtle hatchling:snapping turtle hatchlings]	added by Igfig
+	[CHILD:1][GENERAL_CHILD_NAME:snapping turtle hatchling:snapping turtle hatchlings] added by Igfig
 	[CREATURE_TILE:'t'][COLOR:2:0:0]
 	[PETVALUE:25]
 	[LARGE_ROAMING]
@@ -327,7 +327,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[DESCRIPTION:A large reptile with a thick ridged shell.  It has been known to consume snakes and smaller turtles, and its bite can amputate fingers.]
 	[NAME:alligator snapping turtle:alligator snapping turtles:alligator snapping turtle]
 	[CASTE_NAME:alligator snapping turtle:alligator snapping turtles:alligator snapping turtle]
-	[CHILD:1][GENERAL_CHILD_NAME:alligator snapping turtle hatchling:alligator snapping turtle hatchlings]	added by Igfig
+	[CHILD:1][GENERAL_CHILD_NAME:alligator snapping turtle hatchling:alligator snapping turtle hatchlings] added by Igfig
 	[CREATURE_TILE:'T'][COLOR:2:0:0]
 	[PETVALUE:25]
 	[AMPHIBIOUS]
@@ -445,12 +445,12 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[GO_TO_START]
 	[NAME:giant snapping turtle:giant snapping turtles:giant snapping turtle]
 	[CASTE_NAME:giant snapping turtle:giant snapping turtles:giant snapping turtle]
-	[GENERAL_CHILD_NAME:giant snapping turtle hatchling:giant snapping turtle hatchlings]	added by Igfig
+	[GENERAL_CHILD_NAME:giant snapping turtle hatchling:giant snapping turtle hatchlings] added by Igfig
 	[DESCRIPTION:A large monster with an enormous shell and immensely powerful jaw.]
 	[POPULATION_NUMBER:25:50]
 	[CREATURE_TILE:'T']
 	[COLOR:2:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -690,7 +690,7 @@ Leeches were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
 	[COLOR:0:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -945,7 +945,7 @@ Minks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig

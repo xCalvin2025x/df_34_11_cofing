@@ -414,10 +414,10 @@ creature_large_riverlake
 
 Platypuses were sponsored by the generous contributions of the Bay 12 community.
 
-	Chaos would like to make http://lostsouls.org/ more closely resemble Dwarf Fortress :)
+	Chaos would like to make http://lostsouls.org/ more closely resemble Dwarf Fortress
 	James Brooker
 	Kryten likes black bronze, olivine, olivine and platypuses for their venomous spurs.
-	Stuntaneous deems the Platypus worthy of Dwarven .. attention
+	Stuntaneous deems the Platypus worthy of Dwarven.
 	"I want electroreceptors for my dwarves brains"
 	Matthew Lord
 

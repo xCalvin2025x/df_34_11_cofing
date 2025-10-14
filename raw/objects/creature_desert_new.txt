@@ -114,7 +114,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'G']
 	[COLOR:6:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -133,7 +133,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 	[CHILD:1][GENERAL_CHILD_NAME:desert tortoise hatchling:desert tortoise hatchlings]
 	[CREATURE_TILE:'t'][COLOR:6:0:0]
 	[PETVALUE:50]
-	[LARGE_ROAMING]		added by Crypto
+	[LARGE_ROAMING] added by Crypto
 	[BENIGN][NATURAL][PET_EXOTIC]
 	[BIOME:ANY_DESERT]
 	[POPULATION_NUMBER:10:30]
@@ -437,10 +437,10 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'G']
 	[COLOR:4:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:venomous bite]
 	[PREFSTRING:coloration]

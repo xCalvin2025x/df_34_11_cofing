@@ -19,7 +19,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[CARNIVORE]
 	[AQUATIC][NOBONES][IMMOBILE_LAND][UNDERSWIM]
 	[NATURAL]
-	[PET_EXOTIC]		added by Crypto
+	[PET_EXOTIC] added by Crypto
 	[BIOME:ANY_OCEAN]
 	[NO_DRINK]
 	[POPULATION_NUMBER:50:100]
@@ -72,7 +72,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 		[CDI:TARGET:D:SELF_ONLY]
 		[CDI:WAIT_PERIOD:200]
 		[CDI:FREE_ACTION]
-	[CHILD:1]		added by Crypto
+	[CHILD:1] added by Crypto
 	[MAXAGE:2:3]
 	[CREPUSCULAR]
 	[NO_SLEEP]
@@ -125,7 +125,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'O']
 	[COLOR:7:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -232,10 +232,10 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
 	[COLOR:4:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:pincers]
 	[PREFSTRING:sideways walk]
@@ -253,7 +253,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[PETVALUE:350]
 	[PET_EXOTIC]
 	[LARGE_ROAMING]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[AMPHIBIOUS][UNDERSWIM]
 	[BIOME:OCEAN_ARCTIC]
 	[POPULATION_NUMBER:10:20]
@@ -357,7 +357,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:fierce nature]
 
@@ -480,7 +480,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -497,9 +497,9 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 	[CHILD:1][GENERAL_CHILD_NAME:orca calf:orca calves]
 	[CREATURE_TILE:'O'][COLOR:0:0:1]
 	[LARGE_ROAMING]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND][BEACH_FREQUENCY:10]
-	BENIGN		removed by Crypto
+	BENIGN removed by Crypto
 	[NATURAL]
 	[PETVALUE:750]
 	[BIOME:ANY_OCEAN]
@@ -795,7 +795,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:ability to hide in sand]
 
@@ -810,9 +810,9 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	[CHILD:1][GENERAL_CHILD_NAME:sperm whale calf:sperm whale calves]
 	[CREATURE_TILE:'W'][COLOR:7:0:0]
 	[LARGE_ROAMING]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND][BEACH_FREQUENCY:10]
-	BENIGN		removed by Crypto
+	BENIGN removed by Crypto
 	[MEANDERER][NATURAL]
 	[PETVALUE:1000]
 	[BIOME:ANY_OCEAN]
@@ -941,12 +941,12 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[PETVALUE:400]
 	[PET_EXOTIC]
 	[LARGE_ROAMING]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[AMPHIBIOUS][UNDERSWIM]
 	[BIOME:OCEAN_ARCTIC]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	BENIGN		removed by Crypto
+	BENIGN removed by Crypto
 	[MEANDERER][NATURAL]
 	[PREFSTRING:large floppy noses]
 	[PREFSTRING:great size]
@@ -1050,7 +1050,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:large floppy noses]
 	[PREFSTRING:great size]
@@ -1167,10 +1167,10 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:3:7]
 	[CREATURE_TILE:'H']
 	[COLOR:7:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	MOUNT_EXOTIC		removed by Crypto
+	MOUNT_EXOTIC removed by Crypto
 	[GO_TO_END]
 	[PREFSTRING:adorable pups]
 
@@ -1285,7 +1285,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'N']
 	[COLOR:4:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

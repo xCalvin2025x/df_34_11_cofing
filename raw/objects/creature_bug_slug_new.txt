@@ -95,7 +95,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:5]
 	[CREATURE_TILE:'D']
 	[COLOR:3:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -410,7 +410,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 
 [CREATURE:GIANT_BARK_SCORPION]
 	[COPY_TAGS_FROM:BARK_SCORPION]
-	[CV_CONVERT_TAG]		venom added by Crypto
+	[CV_CONVERT_TAG] venom added by Crypto
 		[CVCT_MASTER:STATE_NAME]
 		[CVCT_TARGET:bark scorpion]
 		[CVCT_REPLACEMENT:giant bark scorpion]
@@ -441,7 +441,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -465,7 +465,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[SPEED:2900]
 	[PREFSTRING:predatory nature]
 	[PREFSTRING:grasping legs]
-	FLIER		removed by Crypto
+	FLIER removed by Crypto
 	[ALL_ACTIVE]
 	[NO_SLEEP]
 	[SWIMS_INNATE][SWIM_SPEED:2500]
@@ -544,7 +544,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:2:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -647,7 +647,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'T']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1037,7 +1037,7 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:0:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -1143,7 +1143,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'J']
 	[COLOR:0:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1312,7 +1312,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:4:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1474,7 +1474,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

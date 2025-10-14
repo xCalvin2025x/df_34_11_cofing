@@ -297,7 +297,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey much larger than itself and slays them by crushing them to death.]
 	[NAME:anaconda:anacondas:anaconda]
 	[CASTE_NAME:anaconda:anacondas:anaconda]
-	[CHILD:3][GENERAL_CHILD_NAME:anaconda hatchling:anaconda hatchlings]	added by Igfig
+	[CHILD:3][GENERAL_CHILD_NAME:anaconda hatchling:anaconda hatchlings] added by Igfig
 	[CREATURE_TILE:'A'][COLOR:2:0:1]
 	[PETVALUE:200]
 	[PET_EXOTIC]
@@ -400,13 +400,13 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant anaconda:giant anacondas:giant anaconda]
 	[CASTE_NAME:giant anaconda:giant anacondas:giant anaconda]
-	[GENERAL_CHILD_NAME:giant anaconda hatchling:giant anaconda hatchlings]	added by Igfig
+	[GENERAL_CHILD_NAME:giant anaconda hatchling:giant anaconda hatchlings] added by Igfig
 	[DESCRIPTION:A huge monster in the form of an anaconda.]
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'A']
 	[COLOR:2:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -557,13 +557,13 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 
 King cobras were sponsored by the generous contributions of the Bay 12 community.
 
-	Sponsored by cosh - <3 DF
+	Sponsored by cosh
 
 [CREATURE:KING_COBRA]
 	[DESCRIPTION:A small limbless reptile known for its deadly venom and the warning of its hood.]
 	[NAME:king cobra:king cobras:king cobra]
 	[CASTE_NAME:king cobra:king cobras:king cobra]
-	[CHILD:2][GENERAL_CHILD_NAME:king cobra hatchling:king cobra hatchlings]	added by Igfig
+	[CHILD:2][GENERAL_CHILD_NAME:king cobra hatchling:king cobra hatchlings] added by Igfig
 	[CREATURE_TILE:'k'][COLOR:0:0:1]
 	[PETVALUE:200]
 	[PET_EXOTIC]
@@ -726,13 +726,13 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 	[GO_TO_START]
 	[NAME:giant king cobra:giant king cobras:giant king cobra]
 	[CASTE_NAME:giant king cobra:giant king cobras:giant king cobra]
-	[GENERAL_CHILD_NAME:king cobra hatchling:king cobra hatchlings]	added by Igfig
+	[GENERAL_CHILD_NAME:king cobra hatchling:king cobra hatchlings] added by Igfig
 	[DESCRIPTION:A large monster in the shape of a king cobra.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'K']
 	[COLOR:0:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -874,7 +874,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'O']
 	[COLOR:6:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1015,7 +1015,7 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[CREATURE_TILE:'J']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1577,7 +1577,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 	[DESCRIPTION:A small aggressive snake which can move very quickly.  Its venom is deadly.]
 	[NAME:black mamba:black mambas:black mamba]
 	[CASTE_NAME:black mamba:black mambas:black mamba]
-	[CHILD:2][GENERAL_CHILD_NAME:black mamba hatchling:black mamba hatchlings]	added by Igfig
+	[CHILD:2][GENERAL_CHILD_NAME:black mamba hatchling:black mamba hatchlings] added by Igfig
 	[CREATURE_TILE:'s'][COLOR:0:0:1]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -1746,13 +1746,13 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 	[GO_TO_START]
 	[NAME:giant black mamba:giant black mambas:giant black mamba]
 	[CASTE_NAME:giant black mamba:giant black mambas:giant black mamba]
-	[GENERAL_CHILD_NAME:giant black mamba hatchling:giant black mamba hatchlings]	added by Igfig
+	[GENERAL_CHILD_NAME:giant black mamba hatchling:giant black mamba hatchlings] added by Igfig
 	[DESCRIPTION:A large monster taking the shape of a black mamba.]
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:0:0:1]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2035,16 +2035,11 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 
 Bushmasters were sponsored by the generous contributions of the Bay 12 community.
 
- |\___/"""""\  ___
-=##BUSHMASTER#|cwc|
- `""""##|_)##\ \==|
-      HH    \#\
-
 [CREATURE:BUSHMASTER]
 	[DESCRIPTION:A tiny venomous snake.  It is the longest of the pit vipers.]
 	[NAME:bushmaster:bushmasters:bushmaster]
 	[CASTE_NAME:bushmaster:bushmasters:bushmaster]
-	[CHILD:2][GENERAL_CHILD_NAME:bushmaster hatchling:bushmaster hatchlings]	added by Igfig
+	[CHILD:2][GENERAL_CHILD_NAME:bushmaster hatchling:bushmaster hatchlings] added by Igfig
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -2209,13 +2204,13 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 	[GO_TO_START]
 	[NAME:giant bushmaster:giant bushmasters:giant bushmaster]
 	[CASTE_NAME:giant bushmaster:giant bushmasters:giant bushmaster]
-	[GENERAL_CHILD_NAME:giant bushmaster hatchling:giant bushmaster hatchlings]	added by Igfig
+	[GENERAL_CHILD_NAME:giant bushmaster hatchling:giant bushmaster hatchlings] added by Igfig
 	[DESCRIPTION:A huge monster in the form of a bushmaster.]
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2224,13 +2219,13 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 
 Pythons were sponsored by the generous contributions of the Bay 12 community.
 
-	RusAnon: for the symbol of best programming language
+	RusAnon:for the symbol of best programming language
 
 [CREATURE:PYTHON]
 	[DESCRIPTION:A small snake found in the trees.  It kills its prey by using its long body to constrict them.]
 	[NAME:python:pythons:python]
 	[CASTE_NAME:python:pythons:python]
-	[CHILD:4][GENERAL_CHILD_NAME:python hatchling:python hatchlings]	added by Igfig
+	[CHILD:4][GENERAL_CHILD_NAME:python hatchling:python hatchlings] added by Igfig
 	[CREATURE_TILE:'S'][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -2339,13 +2334,13 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant python:giant pythons:giant python]
 	[CASTE_NAME:giant python:giant pythons:giant python]
-	[GENERAL_CHILD_NAME:giant python hatchling:giant python hatchlings]	added by Igfig
+	[GENERAL_CHILD_NAME:giant python hatchling:giant python hatchlings] added by Igfig
 	[DESCRIPTION:A huge monster in the form of a python.]
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[LARGE_PREDATOR]		added by Crypto
+	[LARGE_PREDATOR] added by Crypto
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
