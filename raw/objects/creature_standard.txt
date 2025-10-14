@@ -2003,10 +2003,10 @@ creature_standard
 	[LAIR:SIMPLE_BURROW:100]
 	[HABIT_NUM:TEST_ALL]
 	[HABIT:COLLECT_WEALTH:100]
-	skills increased from 6 to 12		Crypto
+	skills increased from 6 to 12 by Crypto
 	[NATURAL_SKILL:BITE:12]
 	[NATURAL_SKILL:GRASP_STRIKE:12]
-	[NATURAL_SKILL:STANCE_STRIKE:12]	added for tail slap attack	Crypto
+	[NATURAL_SKILL:STANCE_STRIKE:12] added for tail slap attack by Crypto
 	[NATURAL_SKILL:RANGED_COMBAT:12]
 	[NATURAL_SKILL:MELEE_COMBAT:12]
 	[NATURAL_SKILL:DODGING:12]
@@ -2323,7 +2323,7 @@ creature_standard
 	ITEMCORPSE_QUALITY:5 removed by Crypto
 	[DIURNAL]
 	[LAIR:SHRINE:100]
-	[SWIMS_INNATE][SWIM_SPEED:2500]	changed SWIMS_LEARNED to SWIMS_INNATE, since colossi cannot learn Crypto
+	[SWIMS_INNATE][SWIM_SPEED:2500]	changed SWIMS_LEARNED to SWIMS_INNATE, since colossi cannot learn by Crypto
 
 [CREATURE:GIANT]
 	[DESCRIPTION:A gigantic creature resembling a human, almost unparalleled in size.]
@@ -3077,7 +3077,7 @@ creature_standard
 	[CHILD:12]
 	[EQUIPS]
 	[NATURAL_SKILL:WRESTLING:6]
-	[NATURAL_SKILL:BITE:6]			increased from 3	Crypto
+	[NATURAL_SKILL:BITE:6] increased from 3 by Crypto
 	[NATURAL_SKILL:GRASP_STRIKE:6]
 	[NATURAL_SKILL:STANCE_STRIKE:6]
 	[NATURAL_SKILL:MELEE_COMBAT:8]
@@ -4974,7 +4974,7 @@ creature_standard
 	[LAIR:WILDERNESS_LOCATION:100]
 	[HABIT_NUM:TEST_ALL]
 	[HABIT:GIANT_NEST:100]
-	natural skills increased from 6 to 10			Crypto
+	natural skills increased from 6 to 10 by Crypto
 	[NATURAL_SKILL:BITE:10]
 	[NATURAL_SKILL:STANCE_STRIKE:10]
 	[NATURAL_SKILL:MELEE_COMBAT:10]
