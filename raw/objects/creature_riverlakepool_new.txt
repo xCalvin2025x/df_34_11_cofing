@@ -312,7 +312,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:50]
-			[CLUTCH_SIZE:2:3] actually much higher	changed by Igfig
+			[CLUTCH_SIZE:2:3] actually much higher changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -400,7 +400,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:70]
-			[CLUTCH_SIZE:2:3] actually much higher	changed by Igfig
+			[CLUTCH_SIZE:2:3] actually much higher changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1026,7 +1026,7 @@ Pond turtles were sponsored by the generous contributions of the Bay 12 communit
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:6]
-			[CLUTCH_SIZE:1:4]	changed by Igfig
+			[CLUTCH_SIZE:1:4] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]

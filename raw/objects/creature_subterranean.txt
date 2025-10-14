@@ -80,7 +80,7 @@ creature_subterranean
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:80]
-			[CLUTCH_SIZE:4:8]	changed by Igfig
+			[CLUTCH_SIZE:4:8] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1875,7 +1875,7 @@ creature_subterranean
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1994,7 +1994,7 @@ creature_subterranean
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:2100]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2194,7 +2194,7 @@ creature_subterranean
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:1600]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[CASTE_NAME:reptile man:reptile men:reptile man]
 		[MALE]
@@ -2321,7 +2321,7 @@ creature_subterranean
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:1600]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[CASTE_NAME:serpent man:serpent men:serpent man]
 		[MALE]

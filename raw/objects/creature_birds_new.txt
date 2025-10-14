@@ -91,7 +91,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:21]
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -244,7 +244,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:52]
-			[CLUTCH_SIZE:2:3]	changed by Igfig
+			[CLUTCH_SIZE:2:3] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -385,7 +385,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:550]
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -532,14 +532,13 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:62]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
 		[SET_TL_GROUP:BY_CATEGORY:ALL:FEATHER]
 			[TL_COLOR_MODIFIER:OLIVE:1]
-				[TLCM_NOUN:feathers:PLURAL]
-			want orange feathers under the wings
+				[TLCM_NOUN:feathers:PLURAL] want orange feathers under the wings
 		[SET_TL_GROUP:BY_CATEGORY:ALL:SKIN]
 	[TL_COLOR_MODIFIER:BROWN:1:BURNT_UMBER:1:CINNAMON:1:COPPER:1:DARK_BROWN:1:DARK_PEACH:1:DARK_TAN:1:ECRU:1:PALE_BROWN:1:PALE_CHESTNUT:1:PALE_PINK:1:PEACH:1:PINK:1:RAW_UMBER:1:SEPIA:1:TAN:1:TAUPE_PALE:1:TAUPE_SANDY:1]
 				[TLCM_NOUN:skin:SINGULAR]
@@ -680,7 +679,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:62]
-			[CLUTCH_SIZE:2:3] 5 to 14	changed by Igfig
+			[CLUTCH_SIZE:2:3] 5 to 14 changed by Igfig
 		[SET_TL_GROUP:BY_CATEGORY:ALL:FEATHER]
 			[TL_COLOR_MODIFIER:SPOTS_WHITE_BLACK:1]
 				[TLCM_NOUN:feathers:PLURAL]
@@ -835,7 +834,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:3]
-			[CLUTCH_SIZE:1:3]	changed by Igfig
+			[CLUTCH_SIZE:1:3] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -972,7 +971,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:110]
-			[CLUTCH_SIZE:1:3]	changed by Igfig
+			[CLUTCH_SIZE:1:3] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1110,7 +1109,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:152]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1262,7 +1261,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:32] no solid number here
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1410,7 +1409,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1547,7 +1546,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:52] couldn't find this
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 		[SOUND:PEACEFUL_INTERMITTENT:200:1000:VOCALIZATION:boom:booms:a low boom]
@@ -1684,7 +1683,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:40] no data
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1816,7 +1815,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:30] no data
-			[CLUTCH_SIZE:1:1]	changed by Igfig
+			[CLUTCH_SIZE:1:1] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1948,7 +1947,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:340]
-			[CLUTCH_SIZE:2:3]	changed by Igfig
+			[CLUTCH_SIZE:2:3] changed by Igfig
 	[CASTE:MALE]
 		[CASTE_NAME:cob swan:cob swans:cob swan]
 		[MALE]
@@ -2093,7 +2092,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11] no data
-			[CLUTCH_SIZE:1:1]	changed by Igfig
+			[CLUTCH_SIZE:1:1] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2242,7 +2241,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:5]
-			[CLUTCH_SIZE:2:3]	changed by Igfig
+			[CLUTCH_SIZE:2:3] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2392,7 +2391,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:60]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2534,7 +2533,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:805]
-			[CLUTCH_SIZE:2:4]	changed by Igfig
+			[CLUTCH_SIZE:2:4] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2679,7 +2678,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:1:3]	changed by Igfig
+			[CLUTCH_SIZE:1:3] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2823,7 +2822,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:9]
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2969,7 +2968,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3119,7 +3118,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:32]
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3249,7 +3248,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:305]
-			[CLUTCH_SIZE:1:1]	changed by Igfig
+			[CLUTCH_SIZE:1:1] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3401,7 +3400,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:51]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3553,7 +3552,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:142]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3696,7 +3695,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:50]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3838,7 +3837,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:7]
-			[CLUTCH_SIZE:2:2]	changed by Igfig
+			[CLUTCH_SIZE:2:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3980,7 +3979,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:1]
-			[CLUTCH_SIZE:2:4]	changed by Igfig
+			[CLUTCH_SIZE:2:4] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]

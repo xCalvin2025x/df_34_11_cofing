@@ -493,7 +493,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:70]
-			[CLUTCH_SIZE:4:5]	changed by Igfig
+			[CLUTCH_SIZE:4:5] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -645,7 +645,7 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:5]
-			[CLUTCH_SIZE:3:5] 20 to 40	changed by Igfig
+			[CLUTCH_SIZE:3:5] 20 to 40 changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1666,7 +1666,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:50]
-			[CLUTCH_SIZE:3:5]	changed by Igfig
+			[CLUTCH_SIZE:3:5] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2124,7 +2124,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:22]
-			[CLUTCH_SIZE:3:4]	changed by Igfig
+			[CLUTCH_SIZE:3:4] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2288,7 +2288,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:50]
-			[CLUTCH_SIZE:3:5]	changed by Igfig
+			[CLUTCH_SIZE:3:5] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2365,7 +2365,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_ROAMING]
 	[BENIGN][MEANDERER][PET_EXOTIC]
 	(GRAZER:300)
-	[GRAZER:694]	changed by Igfig
+	[GRAZER:694] changed by Igfig
 	[BODY:QUADRUPED:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:3TOES_RQ_REG:MOUTH:GENERIC_TEETH:RIBCAGE]
 	[NATURAL]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
@@ -2499,7 +2499,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
-	[GRAZER:125]	changed by Igfig
+	[GRAZER:125] changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:floppy noses]
 
@@ -2514,7 +2514,7 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:50]
 	[PET_EXOTIC]
 	(GRAZER:1200)
-	[GRAZER:2106]	changed by Igfig
+	[GRAZER:2106] changed by Igfig
 	[PREFSTRING:mighty leaps]
 	[GRASSTRAMPLE:0]
 	[LARGE_ROAMING]
@@ -2636,7 +2636,7 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
-	[GRAZER:304]	changed by Igfig
+	[GRAZER:304] changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:mighty leaps]
 

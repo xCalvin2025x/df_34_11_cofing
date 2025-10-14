@@ -192,7 +192,7 @@ creature_large_temperate
 	[CREATURE_TILE:'D'][COLOR:6:0:0]
 	[PETVALUE:50]
 	(GRAZER:428)
-	[GRAZER:924]	changed by Igfig
+	[GRAZER:924] changed by Igfig
 	[PREFSTRING:grace]
 	[GRASSTRAMPLE:0]
 	[LARGE_ROAMING]
@@ -886,7 +886,7 @@ creature_large_temperate
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:80]
-			[CLUTCH_SIZE:3:5]	changed by Igfig
+			[CLUTCH_SIZE:3:5] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -984,7 +984,7 @@ creature_large_temperate
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:60]
-			[CLUTCH_SIZE:1:2]	changed by Igfig
+			[CLUTCH_SIZE:1:2] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1018,7 +1018,7 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 	[PET]
 	[NATURAL]
 	(GRAZER:462)
-	[GRAZER:6188]	changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the size
+	[GRAZER:6188] changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the size
 	[SPECIFIC_FOOD:PLANT:BAMBOO, ARROW]
 	[SPECIFIC_FOOD:PLANT:BAMBOO, GOLDEN]
 	[SPECIFIC_FOOD:PLANT:BAMBOO, HEDGE]
@@ -1138,7 +1138,7 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'P']
 	[COLOR:7:0:1]
 	(GRAZER:92)
-	[GRAZER:1073]	changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the size
+	[GRAZER:1073] changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the size
 	[TRAINABLE]
 	[PET_EXOTIC]
 	[PETVALUE:1000]
@@ -1211,7 +1211,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[PET]
 	[NATURAL]
 	(GRAZER:1333)
-	[GRAZER:2291]	changed by Igfig
+	[GRAZER:2291] changed by Igfig
 	[AMPHIBIOUS]
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:20:30]
@@ -1315,7 +1315,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'C']
 	[COLOR:6:0:0]
 	(GRAZER:133)
-	[GRAZER:321]	changed by Igfig
+	[GRAZER:321] changed by Igfig
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	MOUNT_EXOTIC removed by Igfig
@@ -1565,7 +1565,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLE_LITTER_RARE]
 		[BODY:QUADRUPED_HOOF:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:TONGUE:GENERIC_TEETH:RIBCAGE]
 		(GRAZER:190)
-		[GRAZER:483]	changed by Igfig
+		[GRAZER:483] changed by Igfig
 		[BODY_SIZE:0:0:31500]
 		[BODY_SIZE:1:0:157500]
 		[BODY_SIZE:2:0:315000]
@@ -1580,7 +1580,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 			[ATTACK_FLAG_WITH]
 			[ATTACK_PRIORITY:MAIN]
 		(GRAZER:114)
-		[GRAZER:321]	changed by Igfig
+		[GRAZER:321] changed by Igfig
 		[BODY_SIZE:0:0:31500]
 		[BODY_SIZE:1:0:262500]
 		[BODY_SIZE:2:0:525000]
@@ -1696,11 +1696,11 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_END]
 	[SELECT_CASTE:FEMALE]
 		(GRAZER:38)
-		[GRAZER:90]	changed by Igfig
+		[GRAZER:90] changed by Igfig
 		[CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]
 	[SELECT_CASTE:MALE]
 		(GRAZER:23)
-		[GRAZER:60]	changed by Igfig
+		[GRAZER:60] changed by Igfig
 		[CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]
 	[PREFSTRING:great size]
 	[PREFSTRING:broad antlers]
@@ -1725,7 +1725,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[BIOME:ANY_TEMPERATE_FOREST]
 	(GRAZER:12000)
-	[GRAZER:83859]	changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their size
+	[GRAZER:83859] changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their size
 	[SPECIFIC_FOOD:PLANT:BAMBOO, ARROW]
 	[SPECIFIC_FOOD:PLANT:BAMBOO, GOLDEN]
 	[SPECIFIC_FOOD:PLANT:BAMBOO, HEDGE]
@@ -1906,4 +1906,4 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	[SELECT_CASTE:ALL]
 	[PREFSTRING:large striped tails]
 	(GRAZER:255)
-	[GRAZER:3852]	changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their size
+	[GRAZER:3852] changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their size

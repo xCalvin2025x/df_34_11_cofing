@@ -328,7 +328,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_ROAMING]
 	[BENIGN][MEANDERER][PET_EXOTIC]
 	(GRAZER:667)
-	[GRAZER:1316]	changed by Igfig
+	[GRAZER:1316] changed by Igfig
 	[BODY:HUMANOID:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:GENERIC_TEETH:RIBCAGE]
 	[NATURAL]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
@@ -464,7 +464,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
-	[GRAZER:216]	changed by Igfig
+	[GRAZER:216] changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:pouches]
 	[PREFSTRING:great leaps]
@@ -700,7 +700,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:16]
-			[CLUTCH_SIZE:2:3] 3 to 20	changed by Igfig
+			[CLUTCH_SIZE:2:3] 3 to 20 changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -879,7 +879,7 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:1]
-			[CLUTCH_SIZE:1:1]	changed by Igfig
+			[CLUTCH_SIZE:1:1] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1166,7 +1166,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:20] no info
-			[CLUTCH_SIZE:2:3]	changed by Igfig
+			[CLUTCH_SIZE:2:3] changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1779,7 +1779,7 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:10]
 	[PET_EXOTIC]
 	(GRAZER:17143)
-	[GRAZER:17679]	changed by Igfig
+	[GRAZER:17679] changed by Igfig
 	[NATURAL]
 	[BIOME:SAVANNA_TEMPERATE]
 	[BIOME:GRASSLAND_TEMPERATE]
@@ -1908,7 +1908,7 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
-	[GRAZER:633]	changed by Igfig
+	[GRAZER:633] changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long ears]
 	[PREFSTRING:fluffy tails]
@@ -2430,7 +2430,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:50]
 	[PET]
 	(GRAZER:1200)
-	[GRAZER:2106]	changed by Igfig
+	[GRAZER:2106] changed by Igfig
 	[BODY:QUADRUPED_HOOF:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:2HEAD_HORN:MOUTH:GENERIC_TEETH:RIBCAGE]
 	[NATURAL]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
@@ -2550,7 +2550,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
-	[GRAZER:304]	changed by Igfig
+	[GRAZER:304] changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long horns]
 
@@ -2567,7 +2567,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:50]
 	[PET_EXOTIC]
 	(GRAZER:2308)
-	[GRAZER:3667]	changed by Igfig
+	[GRAZER:3667] changed by Igfig
 	[NATURAL]
 	[BIOME:ANY_TEMPERATE_FOREST]
 	[BIOME:SHRUBLAND_TEMPERATE]
@@ -2694,7 +2694,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
-	[GRAZER:417]	changed by Igfig
+	[GRAZER:417] changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:waddle]
 

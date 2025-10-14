@@ -126,7 +126,7 @@ material_template_default
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:630]		changed by Crypto
+	[SOLID_DENSITY:630] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -173,17 +173,17 @@ material_template_default
 	[DISPLAY_COLOR:7:0:0]
 	[MATERIAL_VALUE:1]
 	SPEC_HEAT:4181
-	[SPEC_HEAT:870]		changed by Igfig
+	[SPEC_HEAT:870] changed by Igfig
 	[IGNITE_POINT:10508]
 	[MELTING_POINT:NONE]
 	BOILING_POINT:NONE
-	[BOILING_POINT:11400]	changed by Igfig
+	[BOILING_POINT:11400] changed by Igfig
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:1000
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -225,12 +225,12 @@ material_template_default
 	[DISPLAY_COLOR:6:0:1]
 	[MATERIAL_VALUE:1]
 	SPEC_HEAT:4181
-	[SPEC_HEAT:870]		changed by Igfig
+	[SPEC_HEAT:870] changed by Igfig
 	[IGNITE_POINT:10338]
 	[MELTING_POINT:10078]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	[SOLID_DENSITY:900]
@@ -278,13 +278,13 @@ material_template_default
 	[DISPLAY_COLOR:4:0:0]
 	[MATERIAL_VALUE:1]
 	SPEC_HEAT:4181
-	[SPEC_HEAT:870]		changed by Igfig
+	[SPEC_HEAT:870] changed by Igfig
 	[IGNITE_POINT:10508]
 	[MELTING_POINT:NONE]
 	BOILING_POINT:NONE
-	[BOILING_POINT:11400]	changed by Igfig
+	[BOILING_POINT:11400] changed by Igfig
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	[SOLID_DENSITY:1060]
@@ -333,12 +333,12 @@ material_template_default
 	[DISPLAY_COLOR:4:0:0]
 	[MATERIAL_VALUE:1]
 	SPEC_HEAT:4181
-	[SPEC_HEAT:3470]	changed by Crypto
+	[SPEC_HEAT:3470] changed by Crypto
 	[IGNITE_POINT:10508]
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	[SOLID_DENSITY:1000]
@@ -382,16 +382,16 @@ material_template_default
 	[DISPLAY_COLOR:7:0:1]
 	[MATERIAL_VALUE:1]
 	SPEC_HEAT:1000
-	[SPEC_HEAT:440]		changed by Igfig
+	[SPEC_HEAT:440] changed by Igfig
 	[IGNITE_POINT:10508]
 	[MELTING_POINT:NONE]
 	BOILING_POINT:NONE
-	[BOILING_POINT:11800]	changed by Igfig
+	[BOILING_POINT:11800] changed by Igfig
 	[HEATDAM_POINT:10250]
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1450]	changed by Crypto
+	[SOLID_DENSITY:1450] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:200000]
@@ -439,7 +439,7 @@ material_template_default
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -484,7 +484,7 @@ material_template_default
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1310]	changed by Crypto
+	[SOLID_DENSITY:1310] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -530,7 +530,7 @@ material_template_default
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:40]		changed by Crypto
+	[SOLID_DENSITY:40] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -576,11 +576,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1200]		changed by Crypto
+	[SOLID_DENSITY:1200] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -628,7 +628,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1200]	changed by Crypto
+	[SOLID_DENSITY:1200] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:200000] used bone for all of these but more elastic, no data
@@ -674,7 +674,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:3000]	changed by Crypto
+	[SOLID_DENSITY:3000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:200000] copied bone, no data
@@ -718,11 +718,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1000]	changed by Crypto
+	[SOLID_DENSITY:1000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -770,11 +770,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1000]	changed by Crypto
+	[SOLID_DENSITY:1000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -817,11 +817,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -870,11 +870,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1060]	changed by Crypto
+	[SOLID_DENSITY:1060] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -923,11 +923,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -976,11 +976,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1029,11 +1029,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1000]	changed by Crypto
+	[SOLID_DENSITY:1000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1082,11 +1082,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1000]	changed by Crypto
+	[SOLID_DENSITY:1000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1135,11 +1135,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1000]	changed by Crypto
+	[SOLID_DENSITY:1000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1188,11 +1188,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1241,11 +1241,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1000]	changed by Crypto
+	[SOLID_DENSITY:1000] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1294,11 +1294,11 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]
 	HEATDAM_POINT:10250
-	[HEATDAM_POINT:10100]	changed by Igfig
+	[HEATDAM_POINT:10100] changed by Igfig
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1100]	changed by Crypto
+	[SOLID_DENSITY:1100] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1350,7 +1350,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:923]	changed by Crypto
+	[SOLID_DENSITY:923] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1397,7 +1397,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1850]	changed by Crypto
+	[SOLID_DENSITY:1850] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:200000] used bone for all of these, no data
@@ -1444,7 +1444,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1850]	changed by Crypto
+	[SOLID_DENSITY:1850] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:200000] used bone for all of these, no data
@@ -1491,7 +1491,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:2710]	changed by Crypto
+	[SOLID_DENSITY:2710] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:120000] used stone, no data
@@ -1537,7 +1537,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1340]	changed by Crypto
+	[SOLID_DENSITY:1340] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
@@ -1583,9 +1583,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:920]		changed by Crypto, used ice
+	[SOLID_DENSITY:920] changed by Crypto, used ice
 	LIQUID_DENSITY:NONE
-	[LIQUID_DENSITY:1040]	changed by Crypto
+	[LIQUID_DENSITY:1040] changed by Crypto
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
 	[IMPACT_FRACTURE:10000]
@@ -1631,9 +1631,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:920]		changed by Crypto, used ice
+	[SOLID_DENSITY:920] changed by Crypto, used ice
 	LIQUID_DENSITY:NONE
-	[LIQUID_DENSITY:1040]	changed by Cryptom used blood
+	[LIQUID_DENSITY:1040] changed by Crypto, used blood
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
 	[IMPACT_FRACTURE:10000]
@@ -1679,9 +1679,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:920]		changed by Crypto, used ice
+	[SOLID_DENSITY:920] changed by Crypto, used ice
 	LIQUID_DENSITY:NONE
-	[LIQUID_DENSITY:1040]	changed by Cryptom used blood
+	[LIQUID_DENSITY:1040] changed by Crypto, used blood
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
 	[IMPACT_FRACTURE:10000]
@@ -1727,9 +1727,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:920]		changed by Crypto, used ice
+	[SOLID_DENSITY:920] changed by Crypto, used ice
 	LIQUID_DENSITY:NONE
-	[LIQUID_DENSITY:1040]	changed by Cryptom used blood
+	[LIQUID_DENSITY:1040] changed by Crypto, used blood
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
 	[IMPACT_FRACTURE:10000]
@@ -1774,9 +1774,9 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:920]		changed by Crypto, used ice
+	[SOLID_DENSITY:920] changed by Crypto, used ice
 	LIQUID_DENSITY:NONE
-	[LIQUID_DENSITY:1040]	changed by Cryptom used blood
+	[LIQUID_DENSITY:1040] changed by Crypto, used blood
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
 	[IMPACT_FRACTURE:10000]
@@ -1822,7 +1822,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1290]	changed by Crypto
+	[SOLID_DENSITY:1290] changed by Crypto
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:200000] used bone for all of these, no data
@@ -1966,7 +1966,7 @@ Note: Why the PEARL token on feathers? Because there needs to be some way to dec
 	[COLDDAM_POINT:9900]
 	[MAT_FIXED_TEMP:NONE]
 	SOLID_DENSITY:500
-	[SOLID_DENSITY:1290]	changed by Crypto, used shell
+	[SOLID_DENSITY:1290] changed by Crypto, used shell
 	[LIQUID_DENSITY:NONE]
 	[MOLAR_MASS:NONE]
 	[IMPACT_YIELD:10000]
