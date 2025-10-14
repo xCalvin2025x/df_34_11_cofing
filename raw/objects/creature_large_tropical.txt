@@ -2610,7 +2610,7 @@ Giant tortoises were sponsored by the generous contributions of the Bay 12 commu
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:82]
-			[CLUTCH_SIZE:2:3] 10-25?  large numbers not supported changed by Igfig
+			[CLUTCH_SIZE:2:3] 10-25? large numbers not supported changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 		[BODY_SIZE:0:0:80]
